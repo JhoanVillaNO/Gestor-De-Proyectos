@@ -24,7 +24,7 @@ import java.util.UUID;
 /**
  * @author Tgl. Jhoan Villa.
  * Email: jhoan.villa
- * @version Id: <b>gestor-de-proyectos</b> 5/11/2024, 10:30 a. m.
+ * @version Id: <b>gestor-de-proyectos</b> 30/08/2025, 10:30 a. m.
  **/
 @Service
 @RequiredArgsConstructor

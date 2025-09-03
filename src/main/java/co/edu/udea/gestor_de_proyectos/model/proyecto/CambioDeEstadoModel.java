@@ -6,7 +6,7 @@ import lombok.Data;
 /**
  * @author Tgl. Jhoan Villa.
  * Email: jhoan.villa@dev-codes.io
- * @version Id: <b>gestor-de-proyectos</b> 14/11/2024, 8:36 a. m.
+ * @version Id: <b>gestor-de-proyectos</b> 30/08/2025, 8:36 a. m.
  **/
 @Data
 public class CambioDeEstadoModel {

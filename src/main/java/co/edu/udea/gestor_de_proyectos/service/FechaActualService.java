@@ -8,7 +8,7 @@ import java.time.ZoneId;
 /**
  * @author Jhoan Villa;
  * Email: jhoan.echeverri
- * @version Id: <b>gestor proyectos </b> 11/03/2024, 11:36 AM
+ * @version Id: <b>gestor proyectos </b> 30/08/2025, 11:36 AM
  **/
 @Component
 public class FechaActualService {

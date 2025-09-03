@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * @author Tgl. Jhoan Villa.
  * Email: jhoan.villa
- * @version Id: <b>gestor-de-proyectos</b> 12/11/2024, 2:56 p. m.
+ * @version Id: <b>gestor-de-proyectos</b>  01/09/2025, 2:56 p. m.
  **/
 @Data
 public class ActualizarProyectoDTO {

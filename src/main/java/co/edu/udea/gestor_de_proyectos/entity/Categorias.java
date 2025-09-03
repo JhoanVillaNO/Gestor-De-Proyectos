@@ -6,7 +6,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 /**
  * @author Tgl. Jhoan Villa.
  * Email: jhoan.villa
- * @version Id: <b>gestor-de-proyectos</b> 12/11/2024, 2:40 p. m.
+ * @version Id: <b>gestor-de-proyectos</b> 01/09/2025, 2:40 p. m.
  **/
 @Data
 @Document("categoria")

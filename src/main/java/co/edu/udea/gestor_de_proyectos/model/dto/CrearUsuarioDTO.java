@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
 /**
  * @author Tgl. Jhoan Villa.
  * Email: jhoan.villa
- * @version Id: <b>gestor-de-proyectos</b> 12/11/2024, 2:42 p. m.
+ * @version Id: <b>gestor-de-proyectos</b> 30/08/2025, 2:42 p. m.
  **/
 @Data
 public class CrearUsuarioDTO {

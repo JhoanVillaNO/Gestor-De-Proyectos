@@ -17,7 +17,7 @@ import java.util.List;
 /**
  * @author Tgl. Jhoan Villa.
  * Email: jhoan.villa@dev-codes.io
- * @version Id: <b>gestor-de-proyectos</b> 5/11/2024, 10:33 a. m.
+ * @version Id: <b>gestor-de-proyectos</b> 01/09/2025, 10:33 a. m.
  **/
 @RestController
 @RequestMapping("/api/proyectos")

@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 /**
  * @author Tgl. Jhoan Villa.
  * Email: jhoan.villa
- * @version Id: <b>gestor-de-proyectos</b> 5/11/2024, 10:16 a. m.
+ * @version Id: <b>gestor-de-proyectos</b> 01/09/2025, 10:16 a. m.
  **/
 @Data
 @Document("proyecto")
